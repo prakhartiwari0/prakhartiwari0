@@ -1,4 +1,4 @@
-![I am Prakhar Tiwari, a learner from India.](https://raw.githubusercontent.com/Bharatiya-ExploLearner/Bharatiya-ExploLearner/main/PRAKHAR%20TIWARI.png)
+![I am Prakhar Tiwari, a learner from India.](https://raw.githubusercontent.com/Bharatiya-ExploLearner/Bharatiya-ExploLearner/main/PRAKHAR%20TIWARI%20(1).png)
 ### Hi there 👋, Namaste
 #### I am Prakhar Tiwari, a learner from India.
 
