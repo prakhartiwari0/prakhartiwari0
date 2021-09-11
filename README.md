@@ -1,13 +1,12 @@
+![I am Prakhar Tiwari, a learner from India.](https://raw.githubusercontent.com/Bharatiya-ExploLearner/Bharatiya-ExploLearner/main/PRAKHAR%20TIWARI.png)
 ### Hi there 👋, Namaste
 #### I am Prakhar Tiwari, a learner from India.
-![I am Prakhar Tiwari, a learner from India.](https://raw.githubusercontent.com/Bharatiya-ExploLearner/Bharatiya-ExploLearner/main/PRAKHAR%20TIWARI.png)
 
 I am very interested in Science and Technology.
 
 Skills: HTML / CSS, PYTHON
 
-- 🌱 I’m currently learning Python Advanced and WebDev 
-- 😄 Pronouns: He/him 
+- 🌱 I’m currently learning Python Advanced and WebDev
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bharatiya-ExploLearner)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/prakhar_tiwari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prakhar-tiwari-44b400210/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://prakhartiwari.me)  
