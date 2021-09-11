@@ -1,11 +1,12 @@
 ![I am Prakhar Tiwari, a learner from India.](https://raw.githubusercontent.com/Bharatiya-ExploLearner/Bharatiya-ExploLearner/main/PRAKHAR%20TIWARI%20(1).png)
 
-# Hi there 👋, Namaste
-## I am Prakhar Tiwari, a learner from India.
+# Prakhar Tiwari
 
-###I am very interested in Science and Technology.
+## 🙏Namaste🙏, I am Prakhar Tiwari, a learner from India.
 
-####Skills: HTML / CSS, PYTHON
+I am very interested in Science and Technology.
+
+Skills: HTML / CSS, PYTHON
 
 🌱 I’m currently learning Python Advanced and WebDev
 
