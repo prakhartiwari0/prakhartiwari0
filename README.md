@@ -15,14 +15,6 @@ Skills: HTML / CSS, PYTHON
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prakhartiwari2507)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhartiwari2507)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prakhartiwari2507&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prakhartiwari2507)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prakhartiwari2507)  
-
-![Profile views](https://gpvc.arturio.dev/prakhartiwari2507)  
