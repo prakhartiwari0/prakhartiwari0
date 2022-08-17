@@ -1,10 +1,13 @@
 ![https://prakhartiwari2507.github.io/](https://user-images.githubusercontent.com/65062036/184919876-a46e79c8-d09d-483c-aeca-339e407d1d4c.png)
-## **Namaste** 🙏🏻
-# I am [Prakhar Tiwari](https://prakhartiwari2507.github.io), a learner from *India* 🇮🇳
+<h2 align="center">Namaste 🙏🏻</h2>
 
-> ##  ***"Change is the unchageable law of the universe"***
+<h1 align='center'> myself <a href="https://prakhartiwari2507.github.io" target="_blank">Prakhar Tiwari</a>, a learner from <em>India</em> 🇮🇳</h1>
 
-**I am very interested in Science 🚀 and Technology 💻.**
+<h3 align="center">"Change is the unchageable law of the universe"</h3>
+
+<img align='right' src="https://media0.giphy.com/media/10IEUy0f5V3WLu/giphy.gif?cid=790b76117d1f0b19529112fa5bcab8b1522324e1c4b89b39&rid=giphy.gif">
+
+**I am very interested in Science 🚀 & Technology 💻**
 ---
 ### My Skills
 - Batch Scripting (Intermediate)
@@ -22,5 +25,4 @@
 [![](https://user-images.githubusercontent.com/65062036/184922852-aa16f60c-483f-482f-b377-075fee0711d5.png)](https://prakhartiwari2507.github.io)
 
 [![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakhartiwari2507)](https://github.com/prakhartiwari2507/github-readme-stats)
-
 
