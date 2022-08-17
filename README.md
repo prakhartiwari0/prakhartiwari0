@@ -21,3 +21,5 @@
 [![](https://user-images.githubusercontent.com/65062036/184922193-06a14446-9e40-4fdd-bf2f-7f069940eed3.png)](https://www.codegrepper.com/profile/prakhar-tiwari)
 [![](https://user-images.githubusercontent.com/65062036/184922852-aa16f60c-483f-482f-b377-075fee0711d5.png)](https://prakhartiwari2507.github.io)
 ![PngItem_56627](https://user-images.githubusercontent.com/65062036/184955825-77e23580-fc49-43cf-ab54-d31821efdbac.png)
+
+[![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakhartiwari2507)](https://github.com/prakhartiwari2507/github-readme-stats)
