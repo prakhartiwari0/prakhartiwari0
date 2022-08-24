@@ -5,10 +5,12 @@
 
 <h3 align="center">"Change is the unchageable law of the universe"</h3>
 
-<img align='right' src="https://media0.giphy.com/media/10IEUy0f5V3WLu/giphy.gif?cid=790b76117d1f0b19529112fa5bcab8b1522324e1c4b89b39&rid=giphy.gif">
+<img align='right' src="https://media2.giphy.com/media/KZSvWYgBP8IUg8K9Pl/giphy.gif?cid=790b7611bf264418353bdb686264642dc141d1275092d7dd&rid=giphy.gif">
+
 
 I am currently in Senior Secondary. I am fond of Science 🚀 & Technology 🖥.
 Currently Learning Web Development and Programming + looking for Open Source Projects 🔍
+
 
 ---
 ### My Skills
