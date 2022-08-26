@@ -10,6 +10,8 @@
 
 I am currently in Senior Secondary. I am fond of Science 🚀 & Technology 🖥.
 Currently Learning Web Development and Programming + looking for Open Source Projects 🔍
+My other interests include writing stories, reading, listening to music + Singing, thinking
+about this world and life, spirituality, etc. I consider myself an explorer of this existence.
 
 
 ---
