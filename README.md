@@ -30,7 +30,7 @@ about this world and life, spirituality, etc. I consider myself an explorer of t
 [![](https://user-images.githubusercontent.com/65062036/184922193-06a14446-9e40-4fdd-bf2f-7f069940eed3.png)](https://www.codegrepper.com/profile/prakhar-tiwari)
 [![](https://user-images.githubusercontent.com/65062036/184922852-aa16f60c-483f-482f-b377-075fee0711d5.png)](https:///prakhartiwari0.github.io)
 
-[![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=/prakhartiwari0)](https://github.com//prakhartiwari0/github-readme-stats)
+[![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakhartiwari0)](https://github.com//prakhartiwari0/github-readme-stats)
 
 ---
 <h5 align='center'>Take Care ❤️</h5>
