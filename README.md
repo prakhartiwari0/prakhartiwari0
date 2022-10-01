@@ -1,12 +1,14 @@
-![https:///prakhartiwari0.github.io/](https://user-images.githubusercontent.com/65062036/184919876-a46e79c8-d09d-483c-aeca-339e407d1d4c.png)
+![https:///prakhartiwari0.github.io/](https://user-images.githubusercontent.com/65062036/193424240-5803f84b-f29f-4b3d-9253-217bd67d6955.jpg)
 <h2 align="center">Namaste 🙏🏻</h2>
+
+
 
 <h1 align='center'> Myself <a href="https:///prakhartiwari0.github.io" target="_blank">Prakhar Tiwari</a>, a learner from <em>India</em> 🇮🇳</h1>
 
 <h3 align="center">"Change is the unchageable law of the universe"</h3>
+<p align="right"><em>- Me...</em></p>
 
-<img align='right' src="https://media2.giphy.com/media/KZSvWYgBP8IUg8K9Pl/giphy.gif?cid=790b7611bf264418353bdb686264642dc141d1275092d7dd&rid=giphy.gif">
-
+<img align='right' src="https://i.giphy.com/media/daqgtzk0N289xXdLza/giphy.webp">
 
 I am currently in Senior Secondary. I am fond of Science 🚀 & Technology 🖥.
 Currently Learning Web Development and Programming + looking for Open Source Projects 🔍
