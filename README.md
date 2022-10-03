@@ -6,7 +6,7 @@
 <h1 align='center'> Myself <a href="https:///prakhartiwari0.github.io" target="_blank">Prakhar Tiwari</a>, a learner from <em>India</em> 🇮🇳</h1>
 
 <h3 align="center">"Change is the unchageable law of the universe"</h3>
-<p align="right"><em>- Me...</em></p>
+<p align="right"><em>- Me</em></p>
 
 <img align='right' src="https://i.giphy.com/media/daqgtzk0N289xXdLza/giphy.webp">
 
@@ -23,6 +23,7 @@ about this world and life, spirituality, etc. I consider myself an explorer of t
 - HTML & CSS (Intermediate)
 - JavaScript (Beginner)
 - Linux (Beginner)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,python)](https://skills.thijs.gg)
 
 ### My Social Media Handles
 (Twitter, Linkedin, Grepper & Website)
@@ -35,4 +36,5 @@ about this world and life, spirituality, etc. I consider myself an explorer of t
 [![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakhartiwari0)](https://github.com//prakhartiwari0/github-readme-stats)
 
 ---
+<h5 align='center'> I love connecting with amazing people (like you!):) Drop a message on any of my social handles</h5>
 <h5 align='center'>Take Care ❤️</h5>
