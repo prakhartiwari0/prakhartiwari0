@@ -23,6 +23,7 @@ about this world and life, spirituality, etc. I consider myself an explorer of t
 - HTML & CSS (Intermediate)
 - JavaScript (Beginner)
 - Linux (Beginner)
+
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,python)](https://skills.thijs.gg)
 
 ### My Social Media Handles
