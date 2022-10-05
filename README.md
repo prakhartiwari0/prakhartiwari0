@@ -1,30 +1,26 @@
-![https:///prakhartiwari0.github.io/](https://user-images.githubusercontent.com/65062036/193424240-5803f84b-f29f-4b3d-9253-217bd67d6955.jpg)
-<h2 align="center">Namaste 🙏🏻</h2>
+![6261311_result](https://user-images.githubusercontent.com/65062036/194102376-13e3ebcd-de44-4970-ad9d-1cd4b3d39cc5.png)
 
 
 
-<h1 align='center'> Myself <a href="https:///prakhartiwari0.github.io" target="_blank">Prakhar Tiwari</a>, a learner from <em>India</em> 🇮🇳</h1>
+<h1 align='center'>Namaste, I am <a href="https:///prakhartiwari0.github.io" target="_blank">Prakhar Tiwari</a>, an explorer</h1>
 
-<h3 align="center">"Change is the unchageable law of the universe"</h3>
-<p align="right"><em>- Me</em></p>
 
-<img align='right' src="https://i.giphy.com/media/daqgtzk0N289xXdLza/giphy.webp">
+
+<h3 align="center">"Change is the unchageable law of the existence"</h3>
+
+<img  width="300px" align='right' src="https://i.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.webp">
+
 
 I am currently in Senior Secondary. I am fond of Science 🚀 & Technology 🖥.
 Currently Learning Web Development and Programming + looking for Open Source Projects 🔍
 My other interests include writing stories, reading, listening to music + Singing, thinking
 about this world and life, spirituality, etc. I consider myself an explorer of this existence.
 
-
 ---
 ### My Skills
-- Batch Scripting (Intermediate)
-- Python Programming (Intermediate)
-- HTML & CSS (Intermediate)
-- JavaScript (Beginner)
-- Linux (Beginner)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,python,linux,figma,git,github)](https://skills.thijs.gg)
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,python)](https://skills.thijs.gg)
+<img width="200px" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
 ### My Social Media Handles
 (Twitter, Linkedin, Grepper & Website)
@@ -36,6 +32,8 @@ about this world and life, spirituality, etc. I consider myself an explorer of t
 
 [![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakhartiwari0)](https://github.com//prakhartiwari0/github-readme-stats)
 
+
 ---
+
 <h5 align='center'> I love connecting with amazing people (like you!):) Drop a message on any of my social handles</h5>
 <h5 align='center'>Take Care ❤️</h5>
