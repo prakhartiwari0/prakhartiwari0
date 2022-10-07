@@ -37,7 +37,7 @@ I consider myself as an _**"Explorer of this Existence."**_ 🌟
 
 👉 Actively Participating in Tech Events
 
-👉 Interested in making connections with cool people like YOU! (The Internet... an Introvert's hidden source of communication 😂)
+👉 Interested in making connections with cool people like YOU! (The Internet... an Introvert's favourite place of communication 😂)
 
 👉 Consistently Contributing to Open Source Projects
 
