@@ -13,7 +13,7 @@
 - [My Projects 💼 and Contributions to Open Source 💝](#projects-)
 - [Some Cool GitHub Stats 📈](#github-stats)
 - [Testimonials 💌](#testimonials)
-- [Find me online... 🔍](#social-handles-)
+- [Find me online... 🔍 or Meet me! 🤗](#social-handles-)
 
 
 <img  width="300px" align='right' src="https://i.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.webp">
@@ -90,27 +90,6 @@ I consider myself as an _**"Explorer of this Existence."**_ 🌟
 
 ---
 
-## Social Handles 😇:
-
-<a href="https://twitter.com/Prakhartiwari0" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>&nbsp;<a href="https://www.linkedin.com/in/prakhar-tiwari0" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-</a>&nbsp;<a href="https://discordapp.com/users/800602051200679971" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
-<!-- 
-<a href="" target="_blank">
-<img src="" alt="">
-</a> 
--->
-
-### Profiles on Tech Websites 🧑‍💻:
-<a href="https://prakhartiwari0.showwcase.com" target="_blank"><img width="32px" src="https://user-images.githubusercontent.com/65062036/194136951-89ad123f-d227-43c9-b488-d113b03fd94f.jpeg" alt="showwcase-profile"></a>&nbsp;<a href="https://dev.to/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto-profile"></a>&nbsp;<a href="https://stackoverflow.com/users/13515764/praksh" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow-profile"></a>&nbsp;<a href="https://praksh.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode-blog"></a>&nbsp;<a href="https://codepen.io/prakhar0" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen-profile"></a>
-
-### Wanna talk in person? Let's <a href="https://calendly.com/prakhartiwari0/talk" target="_blank">Meet Online! 🤙</a>
-
----
-
 <h2>GitHub Stats</h2>
 
 
@@ -130,13 +109,42 @@ I consider myself as an _**"Explorer of this Existence."**_ 🌟
 
 ## Testimonials
 
+[^1] `Loading...`
+
+<details>
+<summary>You sure?</summary>
+Huh okay then...
 
 |              **Name**              |  **Profession**  | **Remarks on me** |
 |:----------------------------------:|------------------|-------------------|
 | [**Person 1**]() | He is an idiot | CEO of Earth |
 | [**Person 2**]() | I was happy before talking to him | President of Antarctica |
 
+</details>
+
 ---
+## Social Handles 😇
+
+<a href="https://twitter.com/Prakhartiwari0" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a>&nbsp;<a href="https://www.linkedin.com/in/prakhar-tiwari0" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+</a>&nbsp;<a href="https://discordapp.com/users/800602051200679971" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+<!-- 
+<a href="" target="_blank">
+<img src="" alt="">
+</a> 
+-->
+
+### Profiles on Tech Websites 🧑‍💻
+
+<a href="https://prakhartiwari0.showwcase.com" target="_blank"><img width="32px" src="https://user-images.githubusercontent.com/65062036/194136951-89ad123f-d227-43c9-b488-d113b03fd94f.jpeg" alt="showwcase-profile"></a>&nbsp;<a href="https://dev.to/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto-profile"></a>&nbsp;<a href="https://stackoverflow.com/users/13515764/praksh" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow-profile"></a>&nbsp;<a href="https://praksh.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode-blog"></a>&nbsp;<a href="https://codepen.io/prakhar0" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen-profile"></a>
+
+### Wanna talk in person? Let's <a href="https://calendly.com/prakhartiwari0/talk" target="_blank">Meet Online! 🤙</a>
+
+---
+
 
 
 <img width="100px" align='right' src="https://i.giphy.com/media/X5PsaxTP6U3h9dUSxd/giphy.webp">
