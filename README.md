@@ -2,8 +2,6 @@
 
 ![6261311_result](https://user-images.githubusercontent.com/65062036/194102376-13e3ebcd-de44-4970-ad9d-1cd4b3d39cc5.png)
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <h3 align="center">"Change is the unchageable law of the existence"</h3>
 
 ### Don't Scroll, Jump!
@@ -14,6 +12,8 @@
 - [Some Cool GitHub Stats 📈](#github-stats)
 - [Testimonials 💌](#testimonials)
 - [Find me online... 🔍 or Meet me! 🤗](#social-handles-)
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 <img  width="300px" align='right' src="https://i.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.webp">
@@ -37,7 +37,7 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Spirituality 🐚
 
 I consider myself as an _**"Explorer of this Existence."**_ 🌟
  
-<img width="200px" align='right' src="https://i.giphy.com/media/InLeBtXAldAZ2/giphy.webp"> 
+<img width="300px" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
 ## Present Status
 👉 Learning Web Development and Programming.
@@ -82,9 +82,6 @@ I consider myself as an _**"Explorer of this Existence."**_ 🌟
 <img src="https://img.shields.io/badge/-Nonverbal%20communication-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Ready%20to%20Learn%20%26%20Evolve-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Problem%20Sovling-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Critical%20Thinking%20%26%20Analysis-skyblue" alt="">
 
 
-
-<img width="300px" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
-
 ## Projects 💼:
 [^1] `Loading...`
 
@@ -124,6 +121,8 @@ Huh okay then...
 
 ---
 ## Social Handles 😇
+
+<img width="200px" align='right' src="https://i.giphy.com/media/InLeBtXAldAZ2/giphy.webp"> 
 
 <a href="https://twitter.com/Prakhartiwari0" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
