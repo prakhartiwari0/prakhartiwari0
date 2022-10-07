@@ -125,7 +125,8 @@ body {
 }
 .list-item {
   /* padding: 1em 2em; */
-  margin: 0.5em;
+  margin: 0.5em 0em;
+
 }
 .linkscard_div ul a {
   background-color: #ffce76;
@@ -136,6 +137,7 @@ body {
   border-radius: 10em;
   display: flex;
   align-items: center;
+  justify-content: center;
   border: #ffce76 2px solid;
   font-weight: 900;
   transition: 0.2s ease;
@@ -156,18 +158,42 @@ a:active {
   background-color: #ffce76;
 }
 
-@media (max-width: 315px) {
+/* @media (max-width: 315px) {
   body {
     font-size: 0.9em;
   }
-}
-@media (max-width: 275px) {
-  .list-item {
-    margin: 0em;
+} */
+
+@media (max-width: 500px) {
+  .profile_card_div{
+    flex:0;
     width: 100%;
+  }
+  .linkscard_div{
+    width: 100%;
+    
   }
   .linkscard_div ul a {
     border: #1d1919 2px solid;
     border-radius: 0em;
+  }
+
+
+}
+@media (max-width: 800px) {
+  /* .profile_card_div{
+    flex:0.8;
+  } */
+  .linkscard_div{
+  padding: 0em 0em;
+  border: none;
+}
+.linkscard_div ul a {
+  border: #1d1919 2px solid;
+  /* border-radius: 0em; */
+}
+.list-item {
+  margin: 0.2em 0em;
+  width: 100%;
   }
 }
