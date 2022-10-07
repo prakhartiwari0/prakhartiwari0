@@ -9,7 +9,6 @@
 
 <img  width="300px" align='right' src="https://i.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.webp">
 
-
 <h3>Hey You! 👋</h3>
 
 **Visiting my Profile huh?** So let me just **introduce** myself first! (I am an _introvert_, telling that beforehand to aviod problems 😅)
@@ -51,6 +50,8 @@ I consider myself as an _**"Explorer of this Existence."**_ 🌟
 
 **Programming Languages:** <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">&nbsp;<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">&nbsp;<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">&nbsp;<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown">&nbsp;<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json">
 
+<img  width="300px" align='right' src="https://media.tenor.com/2c7diqh1oVIAAAAM/anime-computer.gif">
+
 **Code Editors:** <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="sublimetext3">&nbsp;<img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="atom">&nbsp;<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode">&nbsp;<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="vim">&nbsp;<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm">&nbsp;<img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit">
 
 **Design:** <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma">&nbsp;<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva">
@@ -58,6 +59,8 @@ I consider myself as an _**"Explorer of this Existence."**_ 🌟
 **Command Line:** <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="windowsterminal">&nbsp;<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="gnubash">&nbsp;<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell">
 
 **Operating System:** <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">&nbsp;<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="">
+
+<img  width="300px" align='right' src="https://media.tenor.com/zWLzYDsUprAAAAAC/anime-boy.gif">
 
 **Audio & Video Editing:** <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" alt="audacity">&nbsp;<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/0/09/20210224205943%21OpenShot_logo.svg/120px-OpenShot_logo.svg.png" alt="OpenShot">&nbsp;<img width="30px" src="https://www.shotcut.org/assets/img/media/shotcut-logo-640x640.png" alt="Shotcut">
 
