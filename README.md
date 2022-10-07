@@ -6,6 +6,15 @@
 
 <h3 align="center">"Change is the unchageable law of the existence"</h3>
 
+### Don't Scroll, Jump!
+- [Introduction 😊](#hey-you-)
+- [What am I doing nowadays? 🤔](#present-status)
+- [Skills I possess 🛠](#skills-)
+- [My Projects 💼 and Contributions to Open Source 💝](#projects-)
+- [Some Cool GitHub Stats 📈](#github-stats)
+- [Testimonials 💌](#testimonials)
+- [Find me online... 🔍](#social-handles-)
+
 
 <img  width="300px" align='right' src="https://i.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.webp">
 
@@ -119,6 +128,15 @@ I consider myself as an _**"Explorer of this Existence."**_ 🌟
 
 ---
 
+## Testimonials
+
+
+|              **Name**              |  **Profession**  | **Remarks on me** |
+|:----------------------------------:|------------------|-------------------|
+| [**Person 1**]() | He is an idiot | CEO of Earth |
+| [**Person 2**]() | I was happy before talking to him | President of Antarctica |
+
+---
 
 
 <img width="100px" align='right' src="https://i.giphy.com/media/X5PsaxTP6U3h9dUSxd/giphy.webp">
