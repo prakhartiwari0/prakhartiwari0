@@ -67,7 +67,7 @@ I consider myself as an _**"Explorer of this Existence."**_ 🌟
 
 ### Real Life Skills
 <img src="https://img.shields.io/badge/-Conversational%20English-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Communication%20Skills-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Team%20Management-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Event%20Management-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Creative%20Thinking-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Leadership-skyblue" alt="">
-<img src="https://img.shields.io/badge/-Nonverbal%20communication-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Ready%20to%20Learn%20%26%20Evolove-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Problem%20Sovling-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Critical%20Thinking%20%26%20Analysis-skyblue" alt="">
+<img src="https://img.shields.io/badge/-Nonverbal%20communication-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Ready%20to%20Learn%20%26%20Evolve-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Problem%20Sovling-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Critical%20Thinking%20%26%20Analysis-skyblue" alt="">
 
 
 
@@ -80,9 +80,9 @@ I consider myself as an _**"Explorer of this Existence."**_ 🌟
 
 ## Social Handles 😇:
 
-<a href="" target="_blank">
+<a href="https://twitter.com/Prakhartiwari0" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>&nbsp;<a href="" target="_blank">
+</a>&nbsp;<a href="https://www.linkedin.com/in/prakhar-tiwari0" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>&nbsp;<a href="https://discordapp.com/users/800602051200679971" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
@@ -93,7 +93,7 @@ I consider myself as an _**"Explorer of this Existence."**_ 🌟
 -->
 
 ### Profiles on Tech Websites 🧑‍💻:
-<a href="https://prakhartiwari0.showwcase.com" target="_blank"><img width="32px" src="https://user-images.githubusercontent.com/65062036/194136951-89ad123f-d227-43c9-b488-d113b03fd94f.jpeg"></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt=""></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt=""></a>&nbsp;<a href="" target="_blank"><img src=" https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt=""></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt=""></a>
+<a href="https://prakhartiwari0.showwcase.com" target="_blank"><img width="32px" src="https://user-images.githubusercontent.com/65062036/194136951-89ad123f-d227-43c9-b488-d113b03fd94f.jpeg" alt="showwcase-profile"></a>&nbsp;<a href="https://dev.to/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto-profile"></a>&nbsp;<a href="https://stackoverflow.com/users/13515764/praksh" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow-profile"></a>&nbsp;<a href="https://praksh.hashnode.dev" target="_blank"><img src=" https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode-blog"></a>&nbsp;<a href="https://codepen.io/prakhar0" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen-profile"></a>
 
 ### Wanna talk in person? Let's <a href="https://calendly.com/prakhartiwari0/talk" target="_blank">Meet Online! 🤙</a>
 
