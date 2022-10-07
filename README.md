@@ -1,4 +1,4 @@
-<h1 align='center'>Namaste, I am <a href="https:///prakhartiwari0.github.io" target="_blank">Prakhar Tiwari</a>, an explorer</h1>
+<h1 align='center'>Namaste, I am <a href="https://prakhartiwari0.github.io/prakhartiwari0/" target="_blank">Prakhar Tiwari</a>, an explorer</h1>
 
 ![6261311_result](https://user-images.githubusercontent.com/65062036/194102376-13e3ebcd-de44-4970-ad9d-1cd4b3d39cc5.png)
 
@@ -11,7 +11,7 @@
 
 <h3>Hey You! 👋</h3>
 
-**Visiting my Profile huh?** So let me just **introduce** myself first! (I am an _introvert_, telling that beforehand to aviod problems 😅)
+**Visiting my Profile huh?** So let me just **introduce** myself first! (I am an _introvert_, telling that beforehand to avoid problems 😅)
 
 I am <a href="https:///prakhartiwari0.github.io" target="_blank">**Prakhar Tiwari**</a>, currently studying in High School.
 
