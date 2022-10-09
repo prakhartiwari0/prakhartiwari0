@@ -112,8 +112,8 @@ I consider myself as an _**"Explorer of this Existence."**_ 🌟
 <summary>You sure?</summary>
 Huh okay then...
 
-|              **Name**              |  **Profession**  | **Remarks on me** |
-|:----------------------------------:|------------------|-------------------|
+|              **Name**              |  **Remarks on me**  | **Profession** |
+|:----------------------------------:|---------------------|----------------|
 | [**Person 1**]() | He is an idiot | CEO of Earth |
 | [**Person 2**]() | I was happy before talking to him | President of Antarctica |
 
