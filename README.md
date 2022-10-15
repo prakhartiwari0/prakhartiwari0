@@ -25,18 +25,19 @@
 I am <a href="https:///prakhartiwari0.github.io" target="_blank">**Prakhar Tiwari**</a>, currently studying in High School.
 
 I am very passionate about:
-- Physics 🚀
-- Mathematics 🔢
 - Web Development 🌐
 - Programming 🖥
-- Robotics 🤖 + IoT 🔆
+- Robotics 🤖 and IoT 🔆
+- Physics 🚀
+- Mathematics 🔢
 and much more..
 
-My other interests include:
-Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Spirituality 🐚, etc.
+My hobbies include:
+Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connections🤝, Open Source📂, Content Creation🌻 etc.
 
-I consider myself as an _**"Explorer of this Existence."**_ 🌟
- 
+**I consider myself an idiot**, meaning, I have near to zero knowledge, I am nothing in front of this vast Cosmos, and aspire to get better all my life!
+All Ego killed, no risk of stagnation because of stopped growth, open minded approach, ready to change according to the circumstances, best philosophy to live my life.
+
 <img width="300px" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
 ## Present Status
@@ -45,6 +46,8 @@ I consider myself as an _**"Explorer of this Existence."**_ 🌟
 👉 Active on Online Communities
 
 👉 Actively Participating in Tech Events
+
+👉 Creating content to help people like me
 
 👉 Interested in making connections with cool people like YOU! (The Internet... an Introvert's favourite place of communication 😂)
 
