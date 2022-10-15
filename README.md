@@ -1,4 +1,4 @@
-<h1 align='center'>Namaste, I am <a href="https://prakhartiwari0.github.io/prakhartiwari0/" target="_blank">Prakhar Tiwari</a>, an explorer</h1>
+<h1 align='center'>Namaste, I am <a href="https://www.heyprakhar.xyz/links" target="_blank">Prakhar Tiwari</a>, an explorer</h1>
 
 ![6261311_result](https://user-images.githubusercontent.com/65062036/194102376-13e3ebcd-de44-4970-ad9d-1cd4b3d39cc5.png)
 
@@ -22,7 +22,7 @@
 
 **Visiting my Profile huh?** So let me just **introduce** myself first! (I am an _introvert_, telling that beforehand to avoid problems 😅)
 
-I am <a href="https:///prakhartiwari0.github.io" target="_blank">**Prakhar Tiwari**</a>, currently studying in High School.
+I am <a href="https://www.heyprakhar.xyz/" target="_blank">**Prakhar Tiwari**</a>, currently studying in High School.
 
 I am very passionate about:
 - Web Development 🌐
@@ -129,7 +129,7 @@ Huh okay then...
 
 <a href="https://twitter.com/Prakhartiwari0" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>&nbsp;<a href="https://www.linkedin.com/in/prakhar-tiwari0" target="_blank">
+</a>&nbsp;<a href="https://www.linkedin.com/in/prakhartiwari0" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>&nbsp;<a href="https://discordapp.com/users/800602051200679971" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
@@ -141,7 +141,7 @@ Huh okay then...
 
 ### Profiles on Tech Websites 🧑‍💻
 
-<a href="https://prakhartiwari0.showwcase.com" target="_blank"><img width="32px" src="https://user-images.githubusercontent.com/65062036/194136951-89ad123f-d227-43c9-b488-d113b03fd94f.jpeg" alt="showwcase-profile"></a>&nbsp;<a href="https://dev.to/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto-profile"></a>&nbsp;<a href="https://stackoverflow.com/users/13515764/praksh" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow-profile"></a>&nbsp;<a href="https://praksh.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode-blog"></a>&nbsp;<a href="https://codepen.io/prakhar0" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen-profile"></a>
+<a href="https://showwcase.heyprakhar.xyz" target="_blank"><img width="32px" src="https://user-images.githubusercontent.com/65062036/194136951-89ad123f-d227-43c9-b488-d113b03fd94f.jpeg" alt="showwcase-profile"></a>&nbsp;<a href="https://dev.to/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto-profile"></a>&nbsp;<a href="https://stackoverflow.com/users/13515764/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow-profile"></a>&nbsp;<a href="https://blog.heyprakhar.xyz/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode-blog"></a>&nbsp;<a href="https://codepen.io/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen-profile"></a>
 
 ### Wanna talk in person? Let's <a href="https://calendly.com/prakhartiwari0/talk" target="_blank">Meet Online! 🤙</a>
 
