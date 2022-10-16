@@ -145,6 +145,8 @@ Huh okay then...
 
 ### Wanna talk in person? Let's <a href="https://calendly.com/prakhartiwari0/talk" target="_blank">Meet Online! 🤙</a>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=miracode&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=heyprakhar.xyz;blog.heyprakhar.xyz;twitter.heyprakhar.xyz;linkedin.heyprakhar.xyz;github.heyprakhar.xyz;youtube.heyprakhar.xyz;heyprakhar.xyz/links)](https://git.io/typing-svg)
+
 ---
 
 
