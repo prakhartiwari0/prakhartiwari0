@@ -1,17 +1,22 @@
 ---
 name: Testimonial
 about: Write your testimonials for Prakhar Tiwari
-title: "[Writer's Name]'s Testimonial for Prakhar Tiwari"
+title: "[Your_Name]'s Testimonial for Prakhar Tiwari"
 labels: ''
 assignees: ''
 
 ---
 
-**Your Good Name: **
+**Your Good Name:**
 
-** Your Social Media Handles:**
+**Your Social Media URLs (At least one):**
 Twitter: 
 Linkedin: 
-GitHub:
+GitHub: 
 
-**Your Kind Words:**
+**Testimonial:**
+....
+....
+
+
+Thank you for your kind words.
