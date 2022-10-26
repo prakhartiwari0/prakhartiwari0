@@ -32,28 +32,23 @@ I am very passionate about:
 - Mathematics 🔢
 and much more..
 
-My hobbies include:
+Some of my hobbies:
 Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connections🤝, Open Source📂, Content Creation🌻 etc.
 
-**I consider myself an idiot**, meaning, I have near to zero knowledge, I am nothing in front of this vast Cosmos, and aspire to get better all my life!
-All Ego killed, no risk of stagnation because of stopped growth, open minded approach, ready to change according to the circumstances, best philosophy to live my life.
+**I am very interested in making connections with cool people like YOU!**
 
 <img width="300px" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
 ## Present Status
-👉 Learning Web Development and Programming.
+👉 Learning Web Development and Programming 💻
 
-👉 Active on Online Communities
+👉 Active on Online Communities & Actively Participating in Tech Events 🎙
 
-👉 Actively Participating in Tech Events
+👉 Writing Useful Content on my **[Tech Blog](https://blog.heyprakhar.xyz)** (Check it out!) 📰
 
-👉 Creating content to help people like me
+👉 Happily Contributing to Open Source Projects 
 
-👉 Interested in making connections with cool people like YOU! (The Internet... an Introvert's favourite place of communication 😂)
-
-👉 Consistently Contributing to Open Source Projects
-
-👉 and Working on my own Projects... **(Check out [Historo](https://github.com/prakhartiwari0/Historo))**
+👉 and Working on my own Projects...
 
 ---
 ## Skills 🌱:
