@@ -1,27 +1,28 @@
-<h1 align='center'>Namaste, I am <a href="https://www.heyprakhar.xyz/links" target="_blank">Prakhar Tiwari</a>, an explorer</h1>
+<h3 align="center" ><img src="https://user-images.githubusercontent.com/65062036/197965644-d5e1e4ed-5bf6-4a88-ac62-bc1d93907f02.png"></h3>
 
-![6261311_result](https://user-images.githubusercontent.com/65062036/194102376-13e3ebcd-de44-4970-ad9d-1cd4b3d39cc5.png)
+<h2 align="center">"The only way to do great work is to love what you do!"<p align="right"><em>-Steve Jobs</em></p></h2>
 
-<h3 align="center">"Change is the unchageable law of the existence"</h3>
+
+<h3 align="center" ><img src="https://readme-typing-svg.herokuapp.com?font=miracode&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=heyprakhar.xyz;blog.heyprakhar.xyz;twitter.heyprakhar.xyz;linkedin.heyprakhar.xyz;github.heyprakhar.xyz;youtube.heyprakhar.xyz;heyprakhar.xyz/links"></h3>
 
 ### Don't Scroll, Jump!
-- [Introduction 😊](#hey-you-)
-- [What am I doing nowadays? 🤔](#present-status)
-- [Skills I possess 🛠](#skills-)
-- [My Projects 💼 and Contributions to Open Source 💝](#projects-)
-- [Some Cool GitHub Stats 📈](#github-stats)
-- [Testimonials 💌](#testimonials)
-- [Find me online... 🔍 or Meet me! 🤗](#social-handles-)
+- [Introduction 😊](#intro)
+- [What am I doing nowadays? 🤔](#present_status)
+- [Skills I possess 🛠](#skills)
+- [My Projects 💼 and Contributions to Open Source 💝](#projects)
+- [Some Cool GitHub Stats 📈](#github_stats)
+- [What other people say about me? 😇](#testimonials)
+- [Find me online... 🔍 or Meet me! 🤗](#social)
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 <img  width="300px" align='right' src="https://i.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.webp">
 
-<h3>Hey You! 👋</h3>
 
-**Visiting my Profile huh?** So let me just **introduce** myself first! (I am an _introvert_, telling that beforehand to avoid problems 😅)
+<h3 id="intro"> Namaste 🙏 </h3>
 
+**Visiting my Profile haa?** Kindly let me  **introduce** myself first!
 I am <a href="https://www.heyprakhar.xyz/" target="_blank">**Prakhar Tiwari**</a>, currently studying in High School.
 
 I am very passionate about:
@@ -39,7 +40,7 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 
 <img width="300px" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
-## Present Status
+<h2 id="present_status"> Present Status </h3>
 👉 Learning Web Development and Programming 💻
 
 👉 Active on Online Communities & Actively Participating in Tech Events 🎙
@@ -51,7 +52,7 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 👉 and Working on my own Projects...
 
 ---
-## Skills 🌱: 
+<h2 id="skills"> Skills 🌱: </h3>
 
 ### Technical Skills 💻
 
@@ -73,7 +74,10 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 <img src="https://img.shields.io/badge/-Nonverbal%20communication-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Ready%20to%20Learn%20%26%20Evolve-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Problem%20Sovling-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Critical%20Thinking%20%26%20Analysis-skyblue" alt="">
 
 
-## Projects 💼:
+<h2 id="projects"> Projects 💼:</h2>
+
+### My Own Projects
+
 | Project | Description |
 | ------  | ----------- |
 | [Maths Practice App](https://github.com/prakhartiwari0/Maths-Practice-App) | It is a Python GUI App created with Tkinter Library. It is built people who want to practice basic arithmetic. It gives you questions according to the parameters you set. |
@@ -82,7 +86,7 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 
 
 
-## Open Source Projects I have contributed to ⭐:
+### Open Source Projects I have contributed to ⭐:
 | Project | Description |
 | ------  | ----------- |
 |[Tourism Website](https://github.com/PritamSarbajna/tourism-website)| ADVENTURE - A simple website of a tourism agency for tourists.|
@@ -96,8 +100,7 @@ And many other contributions to open source 😇. I love contributing whatever I
 
 ---
 
-<h2>GitHub Stats</h2>
-
+<h2 id="github_stats">GitHub Stats</h2>
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prakhartiwari0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
@@ -114,7 +117,7 @@ And many other contributions to open source 😇. I love contributing whatever I
 
 ---
 
-## Testimonials
+<h2 id="testimonials">Testimonials</h2>
 
 [^1] `Loading...`
 
@@ -130,7 +133,8 @@ Huh okay then...
 </details>
 
 ---
-## Social Handles 😇
+
+<h2 id="social">Social Handles 😇</h2>
 
 <img width="200px" align='right' src="https://i.giphy.com/media/InLeBtXAldAZ2/giphy.webp"> 
 
@@ -146,13 +150,9 @@ Huh okay then...
 </a> 
 -->
 
-### Profiles on Tech Websites 🧑‍💻
+### Profiles on other Tech Websites 🧑‍💻
 
-<a href="https://showwcase.heyprakhar.xyz" target="_blank"><img width="32px" src="https://user-images.githubusercontent.com/65062036/194136951-89ad123f-d227-43c9-b488-d113b03fd94f.jpeg" alt="showwcase-profile"></a>&nbsp;<a href="https://dev.to/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto-profile"></a>&nbsp;<a href="https://stackoverflow.com/users/13515764/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow-profile"></a>&nbsp;<a href="https://blog.heyprakhar.xyz/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode-blog"></a>&nbsp;<a href="https://codepen.io/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen-profile"></a>
-
-### Wanna talk in person? Let's <a href="https://calendly.com/prakhartiwari0/talk" target="_blank">Meet Online! 🤙</a>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=miracode&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=heyprakhar.xyz;blog.heyprakhar.xyz;twitter.heyprakhar.xyz;linkedin.heyprakhar.xyz;github.heyprakhar.xyz;youtube.heyprakhar.xyz;heyprakhar.xyz/links)](https://git.io/typing-svg)
+<a href="https://showwcase.heyprakhar.xyz" target="_blank"><img width="32px" src="https://user-images.githubusercontent.com/65062036/194136951-89ad123f-d227-43c9-b488-d113b03fd94f.jpeg" alt="showwcase-profile"></a>&nbsp;<a href="https://dev.to/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto-profile"></a>&nbsp;<a href="https://stackoverflow.com/users/13515764/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow-profile"></a>&nbsp;<a href="https://hashnode.com/@prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode-blog"></a>&nbsp;<a href="https://codepen.io/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen-profile"></a>
 
 ---
 
