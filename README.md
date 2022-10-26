@@ -86,12 +86,23 @@ All Ego killed, no risk of stagnation because of stopped growth, open minded app
 
 
 ## Projects 💼:
-| Project Name | Description |
-| -----------  | ----------- |
+| Project | Description |
+| ------  | ----------- |
 | [Maths Practice App](https://github.com/prakhartiwari0/Maths-Practice-App) | It is a Python GUI App created with Tkinter Library. It is built people who want to practice basic arithmetic. It gives you questions according to the parameters you set. |
 | [Spammer Bot](https://github.com/prakhartiwari0/SpammerBot) | It is a spammer bot that uses Python's PyAutoGui module. |
 | [Historo](https://github.com/prakhartiwari0/Historo) | It is an Open Source Web Library for history of everything! (literally) |
 
+## Open Source Projects I have contributed to ⭐:
+| Project | Description |
+| ------  | ----------- |
+|[Tourism Website](https://github.com/PritamSarbajna/tourism-website)| ADVENTURE - A simple website of a tourism agency for tourists.|
+| [BroTab](https://github.com/balta2ar/brotab) | Control your browser's tabs from the command line |
+| [MedFlare](https://github.com/prathimacode-hub/MedFlare)| Med Flare is an instant medical aid app to resolve the hassles and address the emergencies at right frame of time to the needy. |
+| [LinkTree](https://github.com/MichaelBarney/LinkFree) | A free and open source alternative to LinkTree |
+| [Stack-Docs](https://github.com/CaiJimmy/stack-docs) | Source of Stack theme's documentation |
+| [Safe Eyes](https://github.com/slgobinath/SafeEyes) | Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder | 
+
+And many other contributions to open source 😇. I love contributing whatever I can to help others! 
 
 ---
 
