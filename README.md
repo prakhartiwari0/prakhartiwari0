@@ -183,5 +183,5 @@ Currently, there are no testimonials about me, but if you know me for a while an
 
 
 <img width="100px" align='right' src="https://i.giphy.com/media/X5PsaxTP6U3h9dUSxd/giphy.webp">
-<h5 align='center'> I Love Connecting with amazing people like you!😄</h5>
-<h5 align='center'>Take Care ❤️</h5>
+<p align='center'> <strong>I Love Connecting with amazing people like you!😄</strong></p>
+<p align='center'><strong>Take Care 🌱</strong></p>
