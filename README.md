@@ -10,6 +10,7 @@
 - [What am I doing nowadays? 🤔](#present_status)
 - [Skills I possess 🛠](#skills)
 - [My Projects 💼 and Contributions to Open Source 💝](#projects)
+- [My Achievements 🎯](#achievements)
 - [Some Cool GitHub Stats 📈](#github_stats)
 - [What other people say about me? 😇](#testimonials)
 - [Find me online... 🔍 or Meet me! 🤗](#social)
@@ -41,6 +42,7 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 <img width="300px" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
 <h2 id="present_status"> Present Status </h3>
+
 👉 Learning Web Development and Programming 💻
 
 👉 Active on Online Communities & Actively Participating in Tech Events 🎙
@@ -71,10 +73,19 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 ### Real Life Skills
 
 <img src="https://img.shields.io/badge/-Conversational%20English-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Communication%20Skills-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Team%20Management-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Event%20Management-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Creative%20Thinking-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Leadership-skyblue" alt="">
-<img src="https://img.shields.io/badge/-Nonverbal%20communication-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Ready%20to%20Learn%20%26%20Evolve-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Problem%20Sovling-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Critical%20Thinking%20%26%20Analysis-skyblue" alt="">
+<img src="https://img.shields.io/badge/-Nonverbal%20communication-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Ready%20to%20Learn%20%26%20Evolve-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Problem%20Solving-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Critical%20Thinking%20%26%20Analysis-skyblue" alt="">
+
+
+<!-- <details>
+<summary>Open some Section</summary>
+
+</details> -->
 
 
 <h2 id="projects"> Projects 💼:</h2>
+
+<details>
+<summary>Open Projects Section</summary>
 
 ### My Own Projects
 
@@ -98,7 +109,26 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 
 And many other contributions to open source 😇. I love contributing whatever I can to help others! 
 
+</details>
+
 ---
+
+<h2 id="achievements">Achievements</h2>
+
+<details>
+<summary>Open Achievements Section</summary>
+
+<!-- <a href="" target="_blank"><img src="" width="00px"/></a> -->
+
+| Name | Description | Proof |
+| ---- | ----------- | ----- |
+| HackOdisha 2.0 | I participated in HackOdisha 2.0 and was a part of a team. We worked on a project together and I got to learn a lot from that experience | <a href="https://certificate.givemycertificate.com/c/928982d6-1e3a-4a5d-8494-4d8acb810064" target="_blank"><img src="https://user-images.githubusercontent.com/65062036/198053762-c8ccb1b6-2903-422a-9e71-5a14c779cede.png" width="100%"/></a>|
+| Hacktoberfest 2022 | I participated and completed Hacktoberfest 2022 | <a href="https://holopin.io/@prakhar_tiwari" target="_blank"><img src="https://holopin.me/prakhar_tiwari" width="100%"/></a> |
+
+</details>
+
+---
+
 
 <h2 id="github_stats">GitHub Stats</h2>
 
@@ -119,17 +149,11 @@ And many other contributions to open source 😇. I love contributing whatever I
 
 <h2 id="testimonials">Testimonials</h2>
 
-[^1] `Loading...`
-
 <details>
-<summary>You sure?</summary>
-Huh okay then...
+<summary>Open Testimonials Section</summary>
 
-|              **Name**              |  **Remarks on me**  | **Profession** |
-|:----------------------------------:|---------------------|----------------|
-| [**Person 1**]() | He is an idiot | CEO of Earth |
-| [**Person 2**]() | I was happy before talking to him | President of Antarctica |
-
+Currently, there are no testimonials about me, but if you know me for a while and want to share something about me, you can **create an [issue for testimonials](https://github.com/prakhartiwari0/prakhartiwari0/issues/new/choose).**
+  
 </details>
 
 ---
@@ -161,5 +185,3 @@ Huh okay then...
 <img width="100px" align='right' src="https://i.giphy.com/media/X5PsaxTP6U3h9dUSxd/giphy.webp">
 <h5 align='center'> I Love Connecting with amazing people like you!😄</h5>
 <h5 align='center'>Take Care ❤️</h5>
-
-[^1]: This is Readme is currently under construction, every place containing the `Loading...` text means it will be updated in future.
