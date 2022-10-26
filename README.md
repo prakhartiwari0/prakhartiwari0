@@ -109,7 +109,7 @@ And many other contributions to open source 😇. I love contributing whatever I
 
 #### Contribution Graph 🎡
 
-<img  width="360px" align='right' src="https://media.tenor.com/2c7diqh1oVIAAAAM/anime-computer.gif">
+<img  width="300px" align='right' src="https://media.tenor.com/2c7diqh1oVIAAAAM/anime-computer.gif">
 
 <p align="left">
 <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=prakhartiwari0&theme=xcode" />
