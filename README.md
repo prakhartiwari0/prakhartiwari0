@@ -86,7 +86,12 @@ All Ego killed, no risk of stagnation because of stopped growth, open minded app
 
 
 ## Projects 💼:
-[^1] `Loading...`
+| Project Name | Description |
+| -----------  | ----------- |
+| [Maths Practice App](https://github.com/prakhartiwari0/Maths-Practice-App) | It is a Python GUI App created with Tkinter Library. It is built people who want to practice basic arithmetic. It gives you questions according to the parameters you set. |
+| [Spammer Bot](https://github.com/prakhartiwari0/SpammerBot) | It is a spammer bot that uses Python's PyAutoGui module. |
+| [Historo](https://github.com/prakhartiwari0/Historo) | It is an Open Source Web Library for history of everything! (literally) |
+
 
 ---
 
