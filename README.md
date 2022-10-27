@@ -149,12 +149,11 @@ And many other contributions to open source 😇. I love contributing whatever I
 
 <h2 id="testimonials">Testimonials</h2>
 
-<details>
-<summary>Open Testimonials Section</summary>
+If you know me for a while and want to share something about me, you can **create an [issue for testimonials](https://github.com/prakhartiwari0/prakhartiwari0/issues/new/choose).**
 
-Currently, there are no testimonials about me, but if you know me for a while and want to share something about me, you can **create an [issue for testimonials](https://github.com/prakhartiwari0/prakhartiwari0/issues/new/choose).**
-  
-</details>
+| Name | About | Testimonial |
+| ---- | ----------- | ----------- |
+| **[Pritam Sarbajna](https://www.linkedin.com/in/pritam-sarbajna-74945821b/)** | **IT undergrad, Developer, Open source and cybersecurity enthusiast** | _"I've known Prakhar from github, When he contributed one of my open-source repo. After having some conversation with him I'm amazed to know that he's just in school and learnt so much. Always love to talk with these enthusiastic fellas !!! Wish you all the best for future! "_ [{Source}](https://github.com/prakhartiwari0/prakhartiwari0/issues/7) |
 
 ---
 
