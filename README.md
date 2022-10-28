@@ -133,13 +133,13 @@ And many other contributions to open source 😇. I love contributing whatever I
 <h2 id="github_stats">GitHub Stats</h2>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prakhartiwari0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhartiwari0&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=prakhartiwari0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhartiwari0&theme=tokyonight" />
 </p>
 
 #### Contribution Graph 🎡
 
-<img  width="300px" align='right' src="https://media.tenor.com/2c7diqh1oVIAAAAM/anime-computer.gif">
+<img  width="30%" align='right' src="https://media.tenor.com/2c7diqh1oVIAAAAM/anime-computer.gif">
 
 <p align="left">
 <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=prakhartiwari0&theme=xcode" />
