@@ -8,6 +8,7 @@
 ### Don't Scroll, Jump!
 - [Introduction 😊](#intro)
 - [What am I doing nowadays? 🤔](#present_status)
+- [Recent Blog Posts](#blog_posts)
 - [Skills I possess 🛠](#skills)
 - [My Projects 💼 and Contributions to Open Source 💝](#projects)
 - [My Achievements 🎯](#achievements)
@@ -52,6 +53,14 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 👉 Happily Contributing to Open Source Projects 
 
 👉 and Working on my own Projects...
+
+---
+
+<h3 id="blog_posts">Recent Blog Posts</h3>
+
+<!-- BLOGPOSTS:START -->
+
+<!-- BLOGPOSTS:END -->
 
 ---
 <h2 id="skills"> Skills 🌱: </h3>
