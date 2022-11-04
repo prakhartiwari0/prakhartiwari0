@@ -149,10 +149,9 @@ And many other contributions to open source 😇. I love contributing whatever I
 
 #### Contribution Graph 🎡
 
-<img  width="30%" align='right' src="https://media.tenor.com/2c7diqh1oVIAAAAM/anime-computer.gif">
-
 <p align="left">
-<img width="60%" src="https://activity-graph.herokuapp.com/graph?username=prakhartiwari0&theme=xcode" />
+<img width="50%" src="https://activity-graph.herokuapp.com/graph?username=prakhartiwari0&theme=xcode" />
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </p>
 
 ---
