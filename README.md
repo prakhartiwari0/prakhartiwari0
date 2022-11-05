@@ -8,7 +8,6 @@
 ### Don't Scroll, Jump!
 - [Introduction 😊](#intro)
 - [What am I doing nowadays? 🤔](#present_status)
-- [Recent Blog Posts](#blog_posts)
 - [Skills I possess 🛠](#skills)
 - [My Projects 💼 and Contributions to Open Source 💝](#projects)
 - [My Achievements 🎯](#achievements)
@@ -64,7 +63,7 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
  - 🔥 [Sharing my little journey of HacktoberFest with you!](https://blog.heyprakhar.xyz/sharing-my-little-journey-of-hacktoberfest-with-you)<!-- BLOGPOSTS:END -->
 
 ---
-<h2 id="skills"> Skills 🌱: </h3>
+<h2 id="skills" align='center'> Skills 🌱</h3>
 
 ### Technical Skills 💻
 
@@ -92,7 +91,7 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 </details> -->
 
 
-<h2 id="projects"> Projects 💼:</h2>
+<h2 id="projects" align='center'> Projects 💼</h2>
 
 <details>
 <summary>Open Projects Section</summary>
@@ -123,7 +122,7 @@ And many other contributions to open source 😇. I love contributing whatever I
 
 ---
 
-<h2 id="achievements">Achievements</h2>
+<h2 id="achievements" align='center'>Achievements</h2>
 
 <details>
 <summary>Open Achievements Section</summary>
@@ -140,7 +139,7 @@ And many other contributions to open source 😇. I love contributing whatever I
 ---
 
 
-<h2 id="github_stats">GitHub Stats</h2>
+<h2 id="github_stats" align='center'>GitHub Stats</h2>
 
 <p align="left">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=prakhartiwari0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
@@ -156,7 +155,7 @@ And many other contributions to open source 😇. I love contributing whatever I
 
 ---
 
-<h2 id="testimonials">Testimonials</h2>
+<h2 id="testimonials" align='center'>Testimonials</h2>
 
 If you know me for a while and want to share something about me, you can **create an [issue for testimonials](https://github.com/prakhartiwari0/prakhartiwari0/issues/new/choose).**
 
@@ -166,30 +165,28 @@ If you know me for a while and want to share something about me, you can **creat
 
 ---
 
-<h2 id="social">Social Handles 😇</h2>
+<h2 id="social" align='center'>Social Handles 😇</h2>
 
-<img width="200px" align='right' src="https://i.giphy.com/media/InLeBtXAldAZ2/giphy.webp"> 
-
+<p align='center'>
 <a href="https://twitter.com/Prakhartiwari0" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a>&nbsp;<a href="https://www.linkedin.com/in/prakhartiwari0" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-</a>&nbsp;<a href="https://discordapp.com/users/800602051200679971" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>&nbsp;<a href="https://discordapp.com/users/800602051200679971" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>&nbsp;<a href="https://blog.heyprakhar.xyz" target="_blank">
+<img src="https://img.shields.io/badge/-Tech%20Blog-orange?style=for-the-badge" alt="Tech Blog">
 </a>
+ 
+ </p>
 <!-- 
 <a href="" target="_blank">
 <img src="" alt="">
 </a> 
 -->
-
-### Profiles on other Tech Websites 🧑‍💻
-
-<a href="https://showwcase.heyprakhar.xyz" target="_blank"><img width="32px" src="https://user-images.githubusercontent.com/65062036/194136951-89ad123f-d227-43c9-b488-d113b03fd94f.jpeg" alt="showwcase-profile"></a>&nbsp;<a href="https://dev.to/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto-profile"></a>&nbsp;<a href="https://stackoverflow.com/users/13515764/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow-profile"></a>&nbsp;<a href="https://hashnode.com/@prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode-blog"></a>&nbsp;<a href="https://codepen.io/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen-profile"></a>
+<p align='center'>
+<a href="https://showwcase.heyprakhar.xyz" target="_blank"><img width="28px" src="https://user-images.githubusercontent.com/65062036/194136951-89ad123f-d227-43c9-b488-d113b03fd94f.jpeg" alt="showwcase-profile"></a>&nbsp;<a href="https://dev.to/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto-profile"></a>&nbsp;<a href="https://stackoverflow.com/users/13515764/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow-profile"></a>&nbsp;<a href="https://hashnode.com/@prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode-blog"></a>&nbsp;<a href="https://codepen.io/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen-profile"></a>
+ </p>
 
 ---
 
-
-
-<img width="100px" align='right' src="https://i.giphy.com/media/X5PsaxTP6U3h9dUSxd/giphy.webp">
 <p align='center'> <strong>I Love Connecting with amazing people like you!😄</strong></p>
 <p align='center'><strong>Take Care 🌱</strong></p>
