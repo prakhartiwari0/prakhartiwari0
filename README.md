@@ -143,7 +143,7 @@ And many other contributions to open source 😇. I love contributing whatever I
 
 <p align="left">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=prakhartiwari0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhartiwari0&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhartiwari0&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
 
 #### Contribution Graph 🎡
