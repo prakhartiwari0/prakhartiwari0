@@ -58,9 +58,10 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 <h3 id="blog_posts">Recent Blog Posts</h3>
 
 <!-- BLOGPOSTS:START -->
- - 💯 [Useful websites that I have bookmarked &lpar;&amp; you should too&rpar; to Learn &amp; Practice JavaScript](https://blog.heyprakhar.xyz/useful-websites-that-i-have-bookmarked-you-should-too-to-learn-practice-javascript)
- - 🚀 [New to Open Source? Know everything you need to!](https://blog.heyprakhar.xyz/new-to-open-source-know-everything-you-need-to)
- - 🔥 [Sharing my little journey of HacktoberFest with you!](https://blog.heyprakhar.xyz/sharing-my-little-journey-of-hacktoberfest-with-you)<!-- BLOGPOSTS:END -->
+ - 💯 [How to make an Awesome GitHub Profile](https://blog.heyprakhar.xyz/make-an-awesome-github-profile)
+ - 🚀 [Useful websites that I have bookmarked &lpar;&amp; you should too&rpar; to Learn &amp; Practice JavaScript](https://blog.heyprakhar.xyz/useful-websites-that-i-have-bookmarked-you-should-too-to-learn-practice-javascript)
+ - 🔥 [New to Open Source? Know everything you need to!](https://blog.heyprakhar.xyz/new-to-open-source-know-everything-you-need-to)
+ - 🚀 [Sharing my little journey of HacktoberFest with you!](https://blog.heyprakhar.xyz/sharing-my-little-journey-of-hacktoberfest-with-you)<!-- BLOGPOSTS:END -->
 
 ---
 <h2 id="skills" align='center'> Skills 🌱</h3>
