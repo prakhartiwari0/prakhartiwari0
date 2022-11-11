@@ -5,6 +5,7 @@
 
 <h3 align="center" ><img src="https://readme-typing-svg.herokuapp.com?font=miracode&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=heyprakhar.xyz;blog.heyprakhar.xyz;twitter.heyprakhar.xyz;linkedin.heyprakhar.xyz;github.heyprakhar.xyz;youtube.heyprakhar.xyz;heyprakhar.xyz/links"></h3>
 
+<strong>
 <p align="center">
   <a href="https://www.heyprakhar.xyz/" target="_blank">Website</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://blog.heyprakhar.xyz/" target="_blank">Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -12,7 +13,7 @@
   <a href="https://www.linkedin.com/in/prakhartiwari0" target="_blank">Linkedin</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:contact@heyprakhar.xyz" target="_blank">Mail me</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+</strong>
 
 ### Don't Scroll, Jump!
 - [😊 Introduction ](#intro)
