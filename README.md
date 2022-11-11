@@ -15,10 +15,9 @@
 - [😇 What people say about me?](#testimonials)
 - [🔍 Find me Online](#social)
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p align="center"><img width="70%" src="https://user-images.githubusercontent.com/65062036/201350431-fac1a82c-7a1e-48ee-89e5-cc14a5e6bc7e.png"></p>
 
-
-<img  width="300px" align='right' src="https://i.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.webp">
+<img width="300px" align='right' src="https://i.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.webp">
 
 
 <h3 id="intro"> Namaste 🙏 </h3>
@@ -53,7 +52,6 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 
 👉 and Working on my own Projects...
 
----
 
 <h3 id="blog_posts">Recent Blog Posts</h3>
 
@@ -63,7 +61,6 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
  - 🔥 [New to Open Source? Know everything you need to!](https://blog.heyprakhar.xyz/new-to-open-source-know-everything-you-need-to)
  - 🚀 [Sharing my little journey of HacktoberFest with you!](https://blog.heyprakhar.xyz/sharing-my-little-journey-of-hacktoberfest-with-you)<!-- BLOGPOSTS:END -->
 
----
 <h2 id="skills" align='center'> Skills 🌱</h3>
 
 ### Technical Skills 💻
@@ -121,7 +118,6 @@ And many other contributions to open source 😇. I love contributing whatever I
 
 </details>
 
----
 
 <h2 id="achievements" align='center'>Achievements</h2>
 
@@ -137,24 +133,13 @@ And many other contributions to open source 😇. I love contributing whatever I
 
 </details>
 
----
-
 
 <h2 id="github_stats" align='center'>GitHub Stats</h2>
 
-<p align="left">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=prakhartiwari0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhartiwari0&theme=tokyonight&count_private=true&include_all_commits=true" />
-</p>
 
-#### Contribution Graph 🎡
-
-<p align="left">
-<img width="50%" src="https://activity-graph.herokuapp.com/graph?username=prakhartiwari0&theme=xcode" />
-<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-</p>
-
----
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=prakhartiwari0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Prakhar's github stats" /> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhartiwari0&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /></a> |
+| ------------- | ------------- |
+| <img align="center" width="100%" src="https://activity-graph.herokuapp.com/graph?username=prakhartiwari0&theme=xcode" /> | <img align="center"  width="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /> |
 
 <h2 id="testimonials" align='center'>Testimonials</h2>
 
@@ -164,7 +149,6 @@ If you know me for a while and want to share something about me, you can **creat
 | ---- | ----------- | ----------- |
 | **[Pritam Sarbajna](https://www.linkedin.com/in/pritam-sarbajna-74945821b/)** | **IT undergrad, Developer, Open source and cybersecurity enthusiast** | _"I've known Prakhar from github, When he contributed one of my open-source repo. After having some conversation with him I'm amazed to know that he's just in school and learnt so much. Always love to talk with these enthusiastic fellas !!! Wish you all the best for future! "_ [{Source}](https://github.com/prakhartiwari0/prakhartiwari0/issues/7) |
 
----
 
 <h2 id="social" align='center'>Social Handles 😇</h2>
 
@@ -187,7 +171,6 @@ If you know me for a while and want to share something about me, you can **creat
 <a href="https://showwcase.heyprakhar.xyz" target="_blank"><img width="28px" src="https://user-images.githubusercontent.com/65062036/194136951-89ad123f-d227-43c9-b488-d113b03fd94f.jpeg" alt="showwcase-profile"></a>&nbsp;<a href="https://dev.to/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto-profile"></a>&nbsp;<a href="https://stackoverflow.com/users/13515764/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow-profile"></a>&nbsp;<a href="https://hashnode.com/@prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode-blog"></a>&nbsp;<a href="https://codepen.io/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen-profile"></a>
  </p>
 
----
 
 <p align='center'> <strong>I Love Connecting with amazing people like you!😄</strong></p>
 <p align='center'><strong>Take Care 🌱</strong></p>
