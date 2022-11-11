@@ -6,14 +6,14 @@
 <h3 align="center" ><img src="https://readme-typing-svg.herokuapp.com?font=miracode&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=heyprakhar.xyz;blog.heyprakhar.xyz;twitter.heyprakhar.xyz;linkedin.heyprakhar.xyz;github.heyprakhar.xyz;youtube.heyprakhar.xyz;heyprakhar.xyz/links"></h3>
 
 ### Don't Scroll, Jump!
-- [Introduction 😊](#intro)
-- [What am I doing nowadays? 🤔](#present_status)
-- [Skills I possess 🛠](#skills)
-- [My Projects 💼 and Contributions to Open Source 💝](#projects)
-- [My Achievements 🎯](#achievements)
-- [Some Cool GitHub Stats 📈](#github_stats)
-- [What other people say about me? 😇](#testimonials)
-- [Find me online... 🔍 or Meet me! 🤗](#social)
+- [😊 Introduction ](#intro)
+- [🤔 What am I doing nowadays?](#present_status)
+- [🛠 Skills](#skills)
+- [💼 Projects  and Contributions to Open Source](#projects)
+- [🎯 Achievements](#achievements)
+- [📈 GitHub Stats ](#github_stats)
+- [😇 What people say about me?](#testimonials)
+- [🔍 Find me Online](#social)
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
