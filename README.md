@@ -147,9 +147,9 @@ And many other contributions to open source 😇. I love contributing whatever I
 <h2 id="github_stats" align='center'>GitHub Stats</h2>
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=prakhartiwari0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Prakhar's github stats" /> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhartiwari0&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /></a> |
+| <img src="https://github-readme-stats.vercel.app/api?username=prakhartiwari0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Prakhar's github stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhartiwari0&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |
 | ------------- | ------------- |
-| <img align="center" width="100%" src="https://activity-graph.herokuapp.com/graph?username=prakhartiwari0&theme=xcode" /> | <img align="center"  width="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /> |
+| <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=prakhartiwari0&theme=xcode" /> | <img  width="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhartiwari0&layout=compact" /> |
 
 <h2 id="testimonials" align='center'>Testimonials</h2>
 
