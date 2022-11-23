@@ -60,7 +60,7 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 
 👉 Happily Contributing to Open Source Projects 
 
-👉 and Working on my own Projects... Check out [Arito](https://arito.netlify.app/)
+👉 and Working on my own Projects... Check out **[Arito](https://arito.netlify.app/)**
 
 
 <h3 id="blog_posts">Recent Blog Posts</h3>
