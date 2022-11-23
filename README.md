@@ -3,7 +3,12 @@
 <h2 align="center">"The only way to do great work is to love what you do!"<p align="right"><em>-Steve Jobs</em></p></h2>
 
 
+
 <h3 align="center" ><img src="https://readme-typing-svg.herokuapp.com?font=miracode&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=heyprakhar.xyz;blog.heyprakhar.xyz;twitter.heyprakhar.xyz;linkedin.heyprakhar.xyz;github.heyprakhar.xyz;youtube.heyprakhar.xyz;heyprakhar.xyz/links"></h3>
+
+<p align="center">
+ <a href="https://www.buymeacoffee.com/prakhartiwari0"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=prakhartiwari0&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+</p>
 
 <strong>
 <p align="center">
