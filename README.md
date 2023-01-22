@@ -174,7 +174,7 @@ If you know me for a while and want to share something about me, you can **creat
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a>&nbsp;<a href="https://www.linkedin.com/in/prakhartiwari0" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-</a>&nbsp;<a href="https://discordapp.com/users/800602051200679971" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>&nbsp;<a href="https://blog.heyprakhar.xyz" target="_blank">
+</a>&nbsp;<a href="https://discord.gg/GXbwKewsWu" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>&nbsp;<a href="https://blog.heyprakhar.xyz" target="_blank">
 <img src="https://img.shields.io/badge/-Tech%20Blog-orange?style=for-the-badge" alt="Tech Blog">
 </a>
  
