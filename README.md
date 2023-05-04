@@ -31,7 +31,7 @@
 
 <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/65062036/201350431-fac1a82c-7a1e-48ee-89e5-cc14a5e6bc7e.png"></p>
 
-<img width="300px" align='right' src="https://i.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.webp">
+<img width="33%" align='right' src="https://i.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.webp">
 
 
 <h3 id="intro"> Namaste 🙏 </h3>
@@ -52,9 +52,9 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 
 **I am very interested in making connections with cool people like YOU!**
 
-<img width="300px" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
-
 <h2 id="present_status"> Present Status </h3>
+
+<img width="33%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
 👉 Learning Web Development and Programming 💻
 
