@@ -80,6 +80,10 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 
 ### Technical Skills 💻
 
+ <details>
+<summary>Show Skills</summary>
+
+
 | Skill Group | Skills |
 | ----------- | ------ |
 | **Programming & WebDev:** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">&nbsp;<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">&nbsp;<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">&nbsp;<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown">&nbsp;<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json"> |
@@ -94,6 +98,8 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 <img src="https://img.shields.io/badge/-Conversational%20English-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Communication%20Skills-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Team%20Management-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Event%20Management-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Creative%20Thinking-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Leadership-skyblue" alt="">
 <img src="https://img.shields.io/badge/-Nonverbal%20communication-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Ready%20to%20Learn%20%26%20Evolve-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Problem%20Solving-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Critical%20Thinking%20%26%20Analysis-skyblue" alt="">
 
+
+</details>
 
 <!-- <details>
 <summary>Open some Section</summary>
@@ -157,12 +163,16 @@ And many other contributions to open source 😇. I love contributing whatever I
 
 <h2 id="testimonials" align='center'>Testimonials</h2>
 
+<details>
+<summary>Show Testimonials</summary>
+
 If you know me for a while and want to share something about me, you can **create an [issue for testimonials](https://github.com/prakhartiwari0/prakhartiwari0/issues/new/choose).**
 
 | Name | About | Testimonial |
 | ---- | ----------- | ----------- |
 | **[Pritam Sarbajna](https://www.linkedin.com/in/pritam-sarbajna-74945821b/)** | **IT undergrad, Developer, Open source and cybersecurity enthusiast** | _"I've known Prakhar from github, When he contributed one of my open-source repo. After having some conversation with him I'm amazed to know that he's just in school and learnt so much. Always love to talk with these enthusiastic fellas !!! Wish you all the best for future! "_ [{Source}](https://github.com/prakhartiwari0/prakhartiwari0/issues/7) |
 
+ </details>
 
 <h2 id="social" align='center'>Social Handles 😇</h2>
 
