@@ -1,15 +1,15 @@
 ![github_banner_new-round](https://github.com/prakhartiwari0/prakhartiwari0/assets/65062036/4c74fedf-2607-47a3-a497-1be4a0b17677)
 
+<h3 align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=19&duration=2507&pause=500&color=FFCE76&center=true&vCenter=true&repeat=false&width=450&lines=Find+me+anywhere+with+%22prakhartiwari0%22)](https://git.io/typing-svg)
+ 
+</h3>
+
 
 <h2 align="center">"The only way to do great work is to love what you do!"<p align="right"><em>-Steve Jobs</em></p></h2>
 
 
-
-<h3 align="center">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=19&duration=2507&pause=500&color=FFCE76&center=true&vCenter=true&width=435&lines=github.heyprakhar.xyz;twitter.heyprakhar.xyz;linkedin.heyprakhar.xyz;blog.heyprakhar.xyz;youtube.heyprakhar.xyz)](https://git.io/typing-svg)
- 
-</h3>
 
 
 ### Don't Scroll, Jump!
