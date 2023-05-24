@@ -4,20 +4,12 @@
 
 
 
-<h3 align="center" ><img src="https://readme-typing-svg.herokuapp.com?font=miracode&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=heyprakhar.xyz;blog.heyprakhar.xyz;twitter.heyprakhar.xyz;linkedin.heyprakhar.xyz;github.heyprakhar.xyz;youtube.heyprakhar.xyz;heyprakhar.xyz/links"></h3>
+<h3 align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=27&duration=2507&pause=500&color=FFCE76&center=true&vCenter=true&width=435&lines=github.heyprakhar.xyz;twitter.heyprakhar.xyz;linkedin.heyprakhar.xyz;blog.heyprakhar.xyz;youtube.heyprakhar.xyz)](https://git.io/typing-svg)
+ 
+</h3>
 
-<p align="center">
- <a href="https://www.buymeacoffee.com/prakhartiwari0"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=prakhartiwari0&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
-</p>
-
-<strong>
-<p align="center">
-  <a href="https://www.heyprakhar.xyz/" target="_blank">Website</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://blog.heyprakhar.xyz/" target="_blank">Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/Prakhartiwari0" target="_blank">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/prakhartiwari0" target="_blank">Linkedin</a>
-</p>
-</strong>
 
 ### Don't Scroll, Jump!
 - [😊 Introduction ](#intro)
@@ -36,21 +28,24 @@
 
 <h3 id="intro"> Namaste 🙏 </h3>
 
-**Visiting my Profile haa?** Kindly let me  **introduce** myself first!
-I am <a href="https://www.heyprakhar.xyz/" target="_blank">**Prakhar Tiwari**</a>, currently studying in High School.
+**Visiting my Profile?** Let me  **introduce** myself first!
+
+Hello there 👋 I'm **[Prakhar](https://www.heyprakhar.xyz/links/)**, a high school student & an **enthusiastic web developer** hailing from the vibrant nation of India 🇮🇳 <br>
+Technology has always fascinated me, and I've immersed myself in the captivating world of web development.
+My purpose? **Building applications that make a real difference in people's lives**! 🔥 <br>
+I **Love Open Source ❤️** Technology and therefore contribute to it and build most of my projects in public. <br>
+I'm a very curious person with a great desire to explore this world and do something great that could make many lives better.
 
 I am very passionate about:
-- Web Development 🌐
-- Programming 🖥
-- Robotics 🤖 and IoT 🔆
-- Physics 🚀
-- Mathematics 🔢
+- Web Development 🌐 & Programming 🖥
+- Robotics 🤖 & IoT 🔆
+- Science 🚀 & Mathematics 🔢
 and much more..
 
 Some of my hobbies:
 Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connections🤝, Open Source📂, Content Creation🌻 etc.
 
-**I am very interested in making connections with cool people like YOU!**
+I am love connecting with **cool people like YOU**! 
 
 <h2 id="present_status"> Present Status </h3>
 
@@ -195,7 +190,9 @@ If you know me for a while and want to share something about me, you can **creat
 <a href = "https://g.dev/prakhartiwari0"><img alt="google%20developer%20" src="https://img.shields.io/badge/-google%20developer%20-f35902?logo=Google%20Search%20Console&logoColor=white&style=for-the-badge">&nbsp;<a href="https://www.freecodecamp.org/news/author/prakhartiwari0" target="_blank"><img width="200px" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_large.jpg" alt="freecodecamp-blog"></a>
 </a>
  </p>
-
+<p align="center">
+ <a href="https://www.buymeacoffee.com/prakhartiwari0"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=prakhartiwari0&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+</p>
 
 <p align='center'> <strong>I Love Connecting with amazing people like you!😄</strong></p>
 <p align='center'><strong>Take Care 🌱</strong></p>
