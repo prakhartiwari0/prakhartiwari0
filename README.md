@@ -46,7 +46,7 @@ and much more..
 Some of my hobbies:
 Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connections🤝, Open Source📂, Content Creation🌻 etc.
 
-I am love connecting with **cool people like YOU**! 
+I love connecting with **cool people like YOU**! 
 
 <h2 id="present_status"> Present Status </h3>
 
