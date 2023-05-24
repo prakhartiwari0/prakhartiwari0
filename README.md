@@ -15,10 +15,10 @@
 ### Don't Scroll, Jump!
 - [😊 Introduction ](#intro)
 - [🤔 What am I doing nowadays?](#present_status)
+- [📈 GitHub Stats ](#github_stats)
 - [🛠 Skills](#skills)
 - [💼 Projects  and Contributions to Open Source](#projects)
 - [🎯 Achievements](#achievements)
-- [📈 GitHub Stats ](#github_stats)
 - [😇 What people say about me?](#testimonials)
 - [🔍 Find me Online](#social)
 
@@ -71,6 +71,16 @@ I love connecting with **cool people like YOU**!
  - 🔥 [Useful websites that I have bookmarked &lpar;&amp; you should too&rpar; to Learn &amp; Practice JavaScript](https://blog.heyprakhar.xyz/useful-websites-that-i-have-bookmarked-you-should-too-to-learn-practice-javascript)
  - 🚀 [New to Open Source? Know everything you need to!](https://blog.heyprakhar.xyz/new-to-open-source-know-everything-you-need-to)
  - 💯 [Sharing my little journey of HacktoberFest with you!](https://blog.heyprakhar.xyz/sharing-my-little-journey-of-hacktoberfest-with-you)<!-- BLOGPOSTS:END -->
+
+
+
+<h2 id="github_stats" align='center'>GitHub Stats</h2>
+
+
+| <img src="https://github-readme-stats.vercel.app/api?username=prakhartiwari0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Prakhar's github stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhartiwari0&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |  <img  width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhartiwari0&layout=compact" /> |
+| ------------- | ------------- | ------------- |
+
+
 
 <h2 id="skills" align='center'> Skills 🌱</h3>
 
@@ -148,11 +158,6 @@ And many other contributions to open source 😇. I love contributing whatever I
 </details>
 
 
-<h2 id="github_stats" align='center'>GitHub Stats</h2>
-
-
-| <img src="https://github-readme-stats.vercel.app/api?username=prakhartiwari0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Prakhar's github stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhartiwari0&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |  <img  width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhartiwari0&layout=compact" /> |
-| ------------- | ------------- | ------------- |
 
 <!-- [![Prakhar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=prakhartiwari0&theme=github)](https://www.heyprakhar.xyz/links) -->
 
