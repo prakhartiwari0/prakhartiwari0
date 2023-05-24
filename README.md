@@ -1,4 +1,4 @@
-![github_banner_new](https://github.com/prakhartiwari0/prakhartiwari0/assets/65062036/5db3790e-fb42-4a1b-a4e7-84301163096f)
+![github_banner_new-round](https://github.com/prakhartiwari0/prakhartiwari0/assets/65062036/4c74fedf-2607-47a3-a497-1be4a0b17677)
 
 
 <h2 align="center">"The only way to do great work is to love what you do!"<p align="right"><em>-Steve Jobs</em></p></h2>
