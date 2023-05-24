@@ -7,7 +7,7 @@
 
 <h3 align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=27&duration=2507&pause=500&color=FFCE76&center=true&vCenter=true&width=435&lines=github.heyprakhar.xyz;twitter.heyprakhar.xyz;linkedin.heyprakhar.xyz;blog.heyprakhar.xyz;youtube.heyprakhar.xyz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=19&duration=2507&pause=500&color=FFCE76&center=true&vCenter=true&width=435&lines=github.heyprakhar.xyz;twitter.heyprakhar.xyz;linkedin.heyprakhar.xyz;blog.heyprakhar.xyz;youtube.heyprakhar.xyz)](https://git.io/typing-svg)
  
 </h3>
 
