@@ -1,4 +1,5 @@
-<h3 align="center" ><img src="https://user-images.githubusercontent.com/65062036/204435070-faff5655-9911-4348-af64-c668a4b10a3b.png"></h3>
+![github_banner_new](https://github.com/prakhartiwari0/prakhartiwari0/assets/65062036/5db3790e-fb42-4a1b-a4e7-84301163096f)
+
 
 <h2 align="center">"The only way to do great work is to love what you do!"<p align="right"><em>-Steve Jobs</em></p></h2>
 
