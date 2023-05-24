@@ -2,7 +2,7 @@
 
 <h3 align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=19&duration=2507&pause=500&color=FFCE76&center=true&vCenter=true&repeat=false&width=450&lines=Find+me+anywhere+with+%22prakhartiwari0%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=19&duration=7000&pause=500&color=FFCE76&center=true&vCenter=true&repeat=false&width=450&lines=Find+me+anywhere+using+%40prakhartiwari0)](https://git.io/typing-svg)
  
 </h3>
 
