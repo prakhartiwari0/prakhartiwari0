@@ -43,22 +43,17 @@ I am very passionate about:
 - Science 🚀 & Mathematics 🔢
 and much more..
 
-Some of my hobbies:
-Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connections🤝, Open Source📂, Content Creation🌻 etc.
-
-I love connecting with **cool people like YOU**! 
-
 <h2 id="present_status"> Present Status </h3>
 
 <img width="33%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
-👉 Learning Web Development and Programming 💻
+👉 Learning Advanced JavaScript & it's Frameworks 💻
 
-👉 Active on Online Communities & Actively Participating in Tech Events 🎙
+👉 Managing Tech Communities & Organizing Events 🎙
 
 👉 Writing Useful Content on my **[Tech Blog](https://blog.heyprakhar.xyz)** (Check it out!) 📰
 
-👉 Happily Contributing to Open Source Projects 
+👉 Happily Contributing to Open Source Projects
 
 👉 and Working on my own Projects... Check out **[Arito](https://arito.netlify.app/)**
 
@@ -113,10 +108,10 @@ I love connecting with **cool people like YOU**!
 </details> -->
 
 
-<h2 id="projects" align='center'> Projects 💼</h2>
+<h2 id="projects" align='center'> My Projects & Open Source Contributions 🔥</h2>
 
 <details>
-<summary>Open Projects Section</summary>
+<summary>Show Projects & Contributions</summary>
 
 ### My Own Projects
 
@@ -143,10 +138,10 @@ And many other contributions to open source 😇. I love contributing whatever I
 </details>
 
 
-<h2 id="achievements" align='center'>Achievements</h2>
+<h2 id="achievements" align='center'>Achievements ⚡️</h2>
 
 <details>
-<summary>Open Achievements Section</summary>
+<summary>Show Achievements</summary>
 
 <!-- <a href="" target="_blank"><img src="" width="00px"/></a> -->
 
@@ -161,7 +156,7 @@ And many other contributions to open source 😇. I love contributing whatever I
 
 <!-- [![Prakhar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=prakhartiwari0&theme=github)](https://www.heyprakhar.xyz/links) -->
 
-<h2 id="testimonials" align='center'>Testimonials</h2>
+<h2 id="testimonials" align='center'>Testimonials 😇</h2>
 
 <details>
 <summary>Show Testimonials</summary>
@@ -174,7 +169,7 @@ If you know me for a while and want to share something about me, you can **creat
 
  </details>
 
-<h2 id="social" align='center'>Social Handles 😇</h2>
+<h2 id="social" align='center'>Social Handles 🤝</h2>
 
 <p align='center'>
 <a href="https://twitter.com/Prakhartiwari0" target="_blank">
