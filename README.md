@@ -79,10 +79,12 @@ and much more..
 
 <h2 id="skills" align='center'> Skills 🌱</h3>
 
-### Technical Skills 💻
 
  <details>
 <summary>Show Skills</summary>
+
+### Technical Skills 💻
+
 
 
 | Skill Group | Skills |
@@ -129,7 +131,7 @@ and much more..
 |[Tourism Website](https://github.com/PritamSarbajna/tourism-website)| ADVENTURE - A simple website of a tourism agency for tourists.|
 | [BroTab](https://github.com/balta2ar/brotab) | Control your browser's tabs from the command line |
 | [MedFlare](https://github.com/prathimacode-hub/MedFlare)| Med Flare is an instant medical aid app to resolve the hassles and address the emergencies at right frame of time to the needy. |
-| [LinkTree](https://github.com/MichaelBarney/LinkFree) | A free and open source alternative to LinkTree |
+| [LinkFree](https://github.com/MichaelBarney/LinkFree) | A free and open source alternative to LinkTree |
 | [Stack-Docs](https://github.com/CaiJimmy/stack-docs) | Source of Stack theme's documentation |
 | [Safe Eyes](https://github.com/slgobinath/SafeEyes) | Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder | 
 
