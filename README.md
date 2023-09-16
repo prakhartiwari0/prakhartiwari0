@@ -47,15 +47,15 @@ and much more..
 
 <img width="33%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
-👉 Learning Advanced JavaScript & it's Frameworks 💻
+👉 Learning React JS & Chrome Extension Development 💻
 
 👉 Managing Tech Communities & Organizing Events 🎙
 
-👉 Writing Useful Content on my **[Tech Blog](https://blog.heyprakhar.xyz)** (Check it out!) 📰
+👉 Writing Useful Content on **[Hashnode Blog](https://blog.heyprakhar.xyz)**, [**FreeCodeCamp Blog**](https://www.freecodecamp.org/news/author/prakhartiwari0/), [LinuxHandbook.com](https://linuxhandbook.com/author/prakhar/) and It's FOSS.
 
 👉 Happily Contributing to Open Source Projects
 
-👉 and Working on my own Projects... Check out **[Arito](https://arito.netlify.app/)**
+👉 and Working on my own Projects... (Update 16 Sep 2023: I'll be launching A lot of exciting Open Source Projects soon)
 
 
 <h3 id="blog_posts">Recent Blog Posts</h3>
