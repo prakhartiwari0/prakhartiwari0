@@ -150,7 +150,7 @@ And many other contributions to open source 😇. I love contributing whatever I
 | Name | Description | Proof |
 | ---- | ----------- | ----- |
 | HackOdisha 2.0 | I participated in HackOdisha 2.0 and was a part of a team. We worked on a project together and I got to learn a lot from that experience | <a href="https://certificate.givemycertificate.com/c/928982d6-1e3a-4a5d-8494-4d8acb810064" target="_blank"><img src="https://user-images.githubusercontent.com/65062036/198053762-c8ccb1b6-2903-422a-9e71-5a14c779cede.png" width="100%"/></a>|
-| Hacktoberfest 2022 | I participated and completed Hacktoberfest 2022 | <a href="https://holopin.io/@prakhar_tiwari" target="_blank"><img src="https://holopin.me/prakhar_tiwari" width="100%"/></a> |
+| Hacktoberfest 2022 & 2023 | I participated and completed Hacktoberfest 2022 | <a href="https://holopin.io/@prakhar_tiwari" target="_blank"><img src="https://holopin.me/prakhar_tiwari" width="100%"/></a> |
 
 </details>
 
