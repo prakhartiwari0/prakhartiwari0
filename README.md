@@ -1,5 +1,4 @@
-
-![newTwitterBanner3-modified](https://github.com/prakhartiwari0/prakhartiwari0/assets/65062036/bb165f05-3b64-4048-b13e-ee112839eb07)
+![Screenshot from 2023-11-07 21-38-50-modified](https://github.com/prakhartiwari0/prakhartiwari0/assets/65062036/fbc90150-1c06-4993-9798-8a67ad535e5a)
 
 <h3 align="center">
  
