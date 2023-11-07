@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=19&duration=7000&pause=500&color=FFCE76&center=true&vCenter=true&repeat=false&width=450&lines=Find+me+anywhere+with+%40prakhartiwari0)](https://git.io/typing-svg)
 -->
 
-<h2 align="center">On a Journey to become a great human being...<p align="right"></h2>
+<h3 align="center">On a Journey to become a great human being...<p align="right"></h3>
 
 
 <img width="33%" align='right' src="https://i.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.webp">
@@ -62,7 +62,7 @@ and much more...
 
 
 
-<h2 id="github_stats" align='center'>GitHub Stats 👨‍💻</h2>
+<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 
 
 | <img src="https://github-readme-stats.vercel.app/api?username=prakhartiwari0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Prakhar's github stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhartiwari0&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |  <img  width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhartiwari0&layout=compact" /> |
@@ -70,7 +70,7 @@ and much more...
 
 
 
-<h2 id="skills" align='center'> Skills 🌱</h3>
+<h2 id="skills" align=''> Skills 🌱</h3>
 
 
  <details>
@@ -103,7 +103,7 @@ and much more...
 </details> -->
 
 
-<h2 id="projects" align='center'> My Projects & Open Source Contributions 🔥</h2>
+<h2 id="projects" align=''> My Projects & Open Source Contributions 🔥</h2>
 
 <details>
 <summary>Show Projects & Contributions</summary>
@@ -133,7 +133,7 @@ And many other contributions to open source 😇. I love contributing whatever I
 </details>
 
 
-<h2 id="achievements" align='center'>Achievements ⚡️</h2>
+<h2 id="achievements" align=''>Achievements ⚡️ & Testimonials 😇</h2>
 
 <details>
 <summary>Show Achievements</summary>
@@ -148,11 +148,6 @@ And many other contributions to open source 😇. I love contributing whatever I
 </details>
 
 
-
-<!-- [![Prakhar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=prakhartiwari0&theme=github)](https://www.heyprakhar.xyz/links) -->
-
-<h2 id="testimonials" align='center'>Testimonials 😇</h2>
-
 <details>
 <summary>Show Testimonials</summary>
 
@@ -164,26 +159,24 @@ If you know me for a while and want to share something about me, you can **creat
 
  </details>
 
-<h2 id="social" align='center'>Support my work 🤝</h2>
+<!-- [![Prakhar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=prakhartiwari0&theme=github)](https://www.heyprakhar.xyz/links) -->
 
-<p align='center'>
-<a href="https://twitter.com/Prakhartiwari0" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>&nbsp;<a href="https://www.linkedin.com/in/prakhartiwari0" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-</a>&nbsp;<a href="https://discord.gg/GXbwKewsWu" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>&nbsp;<a href="https://blog.heyprakhar.xyz" target="_blank">
-<img src="https://img.shields.io/badge/-Tech%20Blog-orange?style=for-the-badge" alt="Tech Blog">
-</a>
+
+<h3 id="support" align='center'> 
  
- </p>
+ 
+<a href="https://github.com/sponsors/prakhartiwari0" target="_blank">
+Support my work 😄
+</a> </h3>
+
 <!-- 
 <a href="" target="_blank">
 <img src="" alt="">
 </a> 
--->
 
- <a href="https://www.buymeacoffee.com/prakhartiwari0"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=prakhartiwari0&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
-</p>
 
 <p align='center'> <strong>I Love Connecting with amazing people like you!😄</strong></p>
+
 <p align='center'><strong>Take Care 🌱</strong></p>
+
+-->
