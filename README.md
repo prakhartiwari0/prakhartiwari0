@@ -1,47 +1,32 @@
-![Screenshot from 2023-11-07 21-38-50-modified](https://github.com/prakhartiwari0/prakhartiwari0/assets/65062036/fbc90150-1c06-4993-9798-8a67ad535e5a)
-
-<h3 align="center">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=19&duration=7000&pause=500&color=FFCE76&center=true&vCenter=true&repeat=false&width=450&lines=Find+me+anywhere+using+%40prakhartiwari0)](https://git.io/typing-svg)
- 
-</h3>
-
-
-<h2 align="center">"The only way to do great work is to love what you do!"<p align="right"><em>-Steve Jobs</em></p></h2>
-
-
-
-
-### Don't Scroll, Jump!
-- [😊 Introduction ](#intro)
-- [🤔 What am I doing nowadays?](#present_status)
-- [📈 GitHub Stats ](#github_stats)
-- [🛠 Skills](#skills)
-- [💼 Projects  and Contributions to Open Source](#projects)
-- [🎯 Achievements](#achievements)
-- [😇 What people say about me?](#testimonials)
-- [🔍 Find me Online](#social)
 
 <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/65062036/201350431-fac1a82c-7a1e-48ee-89e5-cc14a5e6bc7e.png"></p>
+
+![Screenshot from 2023-11-07 21-38-50-modified](https://github.com/prakhartiwari0/prakhartiwari0/assets/65062036/fbc90150-1c06-4993-9798-8a67ad535e5a)
+
+
+<!-- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=19&duration=7000&pause=500&color=FFCE76&center=true&vCenter=true&repeat=false&width=450&lines=Find+me+anywhere+with+%40prakhartiwari0)](https://git.io/typing-svg)
+-->
+
+<h2 align="center">On a Journey to become a great human being...<p align="right"></h2>
+
 
 <img width="33%" align='right' src="https://i.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.webp">
 
 
 <h3 id="intro"> Namaste 🙏 </h3>
 
-**Visiting my Profile?** Let me  **introduce** myself first!
-
-Hello there 👋 I'm **[Prakhar](https://www.heyprakhar.xyz/links/)**, a high school student & an **enthusiastic web developer** hailing from the vibrant nation of India 🇮🇳 <br>
+I'm **[Prakhar Tiwari](https://www.heyprakhar.com)**, an **enthusiastic developer** hailing from the vibrant nation of India 🇮🇳 <br>
 Technology has always fascinated me, and I've immersed myself in the captivating world of web development.
 My purpose? **Building applications that make a real difference in people's lives**! 🔥 <br>
-I **Love Open Source ❤️** Technology and therefore contribute to it and build most of my projects in public. <br>
+I **Love working in Open Source ❤️** <br>
 I'm a very curious person with a great desire to explore this world and do something great that could make many lives better.
 
 I am very passionate about:
 - Web Development 🌐 & Programming 🖥
 - Robotics 🤖 & IoT 🔆
 - Science 🚀 & Mathematics 🔢
-and much more..
+and much more...
 
 <h2 id="present_status"> Present Status </h3>
 
@@ -51,14 +36,20 @@ and much more..
 
 👉 Managing Tech Communities & Organizing Events 🎙
 
-👉 Writing Useful Content on **[Hashnode Blog](https://blog.heyprakhar.xyz)**, [**FreeCodeCamp Blog**](https://www.freecodecamp.org/news/author/prakhartiwari0/), [LinuxHandbook.com](https://linuxhandbook.com/author/prakhar/) and It's FOSS.
+👉 Writing Useful Content on **[Hashnode Blog](https://blog.heyprakhar.xyz)**, [**FreeCodeCamp Blog**](https://www.freecodecamp.org/news/author/prakhartiwari0/) and [LinuxHandbook.com](https://linuxhandbook.com/author/prakhar/).
 
-👉 Happily Contributing to Open Source Projects
+👉 Building & Contributing to Open Source Projects
 
-👉 and Working on my own Projects... (Update 16 Sep 2023: I'll be launching A lot of exciting Open Source Projects soon)
+`Update 16 Sep 2023:` I'll be launching A lot of exciting Open Source Projects soon
+
+`Update 7 Nov 2023:` I have been working on [**My Web Shortcuts**](https://www.mywebshortcuts.xyz/) for nearly a month and it will launch very soon.
 
 
 <h3 id="blog_posts">Recent Blog Posts</h3>
+
+
+<details>
+<summary>Show Blog posts</summary>
 
 <!-- BLOGPOSTS:START -->
  - 💯 [How to take care of your Health as a Developer](https://blog.heyprakhar.xyz/taking-care-of-your-health)
@@ -66,6 +57,8 @@ and much more..
  - 🔥 [Useful websites that I have bookmarked &lpar;&amp; you should too&rpar; to Learn &amp; Practice JavaScript](https://blog.heyprakhar.xyz/useful-websites-that-i-have-bookmarked-you-should-too-to-learn-practice-javascript)
  - 🚀 [New to Open Source? Know everything you need to!](https://blog.heyprakhar.xyz/new-to-open-source-know-everything-you-need-to)
  - 💯 [Sharing my little journey of HacktoberFest with you!](https://blog.heyprakhar.xyz/sharing-my-little-journey-of-hacktoberfest-with-you)<!-- BLOGPOSTS:END -->
+
+</details> 
 
 
 
@@ -171,7 +164,7 @@ If you know me for a while and want to share something about me, you can **creat
 
  </details>
 
-<h2 id="social" align='center'>Social Handles 🤝</h2>
+<h2 id="social" align='center'>Support my work 🤝</h2>
 
 <p align='center'>
 <a href="https://twitter.com/Prakhartiwari0" target="_blank">
@@ -188,12 +181,7 @@ If you know me for a while and want to share something about me, you can **creat
 <img src="" alt="">
 </a> 
 -->
-<p align='center'>
-<a href="https://showwcase.heyprakhar.xyz" target="_blank"><img width="28px" src="https://user-images.githubusercontent.com/65062036/194136951-89ad123f-d227-43c9-b488-d113b03fd94f.jpeg" alt="showwcase-profile"></a>&nbsp;<a href="https://dev.to/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto-profile"></a>&nbsp;<a href="https://stackoverflow.com/users/13515764/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow-profile"></a>&nbsp;<a href="https://hashnode.com/@prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode-blog"></a>&nbsp;<a href="https://codepen.io/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen-profile"></a>
-<a href = "https://g.dev/prakhartiwari0"><img alt="google%20developer%20" src="https://img.shields.io/badge/-google%20developer%20-f35902?logo=Google%20Search%20Console&logoColor=white&style=for-the-badge">&nbsp;<a href="https://www.freecodecamp.org/news/author/prakhartiwari0" target="_blank"><img width="200px" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_large.jpg" alt="freecodecamp-blog"></a>
-</a>
- </p>
-<p align="center">
+
  <a href="https://www.buymeacoffee.com/prakhartiwari0"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=prakhartiwari0&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </p>
 
