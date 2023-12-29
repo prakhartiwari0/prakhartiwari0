@@ -113,6 +113,7 @@ and much more...
 
 | Project | Description |
 | ------  | ----------- |
+| [My Web Shortcuts](https://github.com/mywebshortcuts/mywebshortcuts) | A browser Extension used to create custom keyboard shortcuts in a website 🌎💻 |
 | [Arito](https://github.com/prakhartiwari0/arito) | Arito is a WebApp built for practicing arithematic skills. It is designed with creativity and to have a joyful experience. It is built primarily for kids who need to practice their mathematical skills, but this can be used by anybody. |
 | [Spammer Bot](https://github.com/prakhartiwari0/SpammerBot) | It is a spammer bot that uses Python's PyAutoGui module. |
 | [Maths Practice App (Python Tkinter)](https://github.com/prakhartiwari0/Maths-Practice-App) | It is a Python GUI App created with Tkinter Library. It is built people who want to practice basic arithmetic. It gives you questions according to the parameters you set. |
