@@ -53,11 +53,9 @@ and much more...
 <summary>Show Blog posts</summary>
 
 <!-- BLOGPOSTS:START -->
- - 💯 [How to take care of your Health as a Developer](https://hashnode.heyprakhar.com/taking-care-of-your-health)
- - 🚀 [How to make an Awesome GitHub Profile](https://hashnode.heyprakhar.com/make-an-awesome-github-profile)
- - 🔥 [Useful websites that I have bookmarked &lpar;&amp; you should too&rpar; to Learn &amp; Practice JavaScript](https://hashnode.heyprakhar.com/useful-websites-that-i-have-bookmarked-you-should-too-to-learn-practice-javascript)
+ - 💯 [Useful websites that I have bookmarked &lpar;&amp; you should too&rpar; to Learn &amp; Practice JavaScript](https://hashnode.heyprakhar.com/useful-websites-that-i-have-bookmarked-you-should-too-to-learn-practice-javascript)
  - 🚀 [New to Open Source? Know everything you need to!](https://hashnode.heyprakhar.com/new-to-open-source-know-everything-you-need-to)
- - 💯 [Sharing my little journey of HacktoberFest with you!](https://hashnode.heyprakhar.com/sharing-my-little-journey-of-hacktoberfest-with-you)<!-- BLOGPOSTS:END -->
+ - 🔥 [Sharing my little journey of HacktoberFest with you!](https://hashnode.heyprakhar.com/sharing-my-little-journey-of-hacktoberfest-with-you)<!-- BLOGPOSTS:END -->
 
 </details> 
 
