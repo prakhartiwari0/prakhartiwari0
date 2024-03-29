@@ -1,7 +1,9 @@
 
 <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/65062036/201350431-fac1a82c-7a1e-48ee-89e5-cc14a5e6bc7e.png"></p>
 
-![Screenshot from 2023-11-07 21-38-50-modified](https://github.com/prakhartiwari0/prakhartiwari0/assets/65062036/fbc90150-1c06-4993-9798-8a67ad535e5a)
+<!-- ![Screenshot from 2023-11-07 21-38-50-modified](https://github.com/prakhartiwari0/prakhartiwari0/assets/65062036/fbc90150-1c06-4993-9798-8a67ad535e5a) -->
+
+![violet_github_banner-modified](https://github.com/prakhartiwari0/prakhartiwari0/assets/65062036/7ddcb24f-3be6-4b44-a1d8-352c7d75bed7)
 
 
 <!-- 
